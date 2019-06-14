@@ -3,6 +3,5 @@ eclipse.project.name = appName + '-core'
 
 dependencies {
   compile "com.badlogicgames.gdx:gdx:$gdxVersion"
-  compile "com.github.RedSponge:BetterAnimations:0.1"
 }
         
