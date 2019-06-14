@@ -136,4 +136,8 @@ public class RAnimation {
     public void setPlayMode(RPlayMode playMode) {
         this.playMode = playMode;
     }
+
+    public RPlayMode getPlayMode() {
+        return playMode;
+    }
 }
